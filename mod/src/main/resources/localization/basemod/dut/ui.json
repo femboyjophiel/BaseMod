@@ -3,7 +3,7 @@
     "TEXT": [
       "%1$s %2$s",
       "%1$s, [run_info_blue]Etage %2$d[]",
-      "Hemelvaart [run_info_red]%1$d[]",
+      "Bestijgingsmodus [run_info_red]%1$d[]",
       "[run_info_red]%1$d / %2$d LP[]     [run_info_gold]%3$d Goud[]"
     ],
     "EXTRA_TEXT": [
